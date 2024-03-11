@@ -32,7 +32,7 @@ Sabendo disso, podemos através da função de [Análise de sentimentos e opini�
 
 **Input:**
 
-![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Inputs/texto%20de%20exemplo.png?raw=true)
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Inputs/textodeexemplo.png?raw=true)
 
 **Output:**
 
@@ -42,7 +42,7 @@ Sabendo disso, podemos através da função de [Análise de sentimentos e opini�
 
 ![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.3.png?raw=true)
 
-Arquivo JSON gerado: [`ResultadosExaminados.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados.json)
+Arquivo JSON gerado: [`ResultadosExaminados.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.json)
 
 ## Referências
 
