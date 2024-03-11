@@ -12,9 +12,9 @@ Sabendo disso, podemos através da função de [Conversão de fala em texto em t
 
 - **Exemplo da conversão de fala em texto em tempo real realizada**
 
-![Imagem de Exemplo da conversão de fala em texto em tempo real realizada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.png?raw=true)
+![Imagem de Exemplo da conversão da fala em texto em tempo real realizada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.png?raw=true)
 
-Arquivo json gerado: [`transcicao.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.json)
+Arquivo JSON gerado: [`transcicao.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.json)
 
 ## **2. Analise texto com Language Studio:**
 
@@ -26,18 +26,23 @@ A IA emprega métodos como aprendizado de máquina e processamento de linguagem 
 
 Embora apresente desafios como o reconhecimento de sarcasmo e ambiguidades linguísticas, a análise de sentimentos através de IA continua a evoluir, fornecendo insights valiosos para diversas aplicações, como gerenciamento de reputação online, desenvolvimento de produtos e tomada de decisões estratégicas.
 
-Sabendo disso, podemos através da função de [Análise de sentimentos e opiniões](https://speech.microsoft.com/portal/3a8202b21299451ca3ac791302c5e372/speechtotexttool), a qual é um ramo da IA ​​que lida com a linguagem escrita e falada analisando os sentimentos. Assim, fornecendo rótulos de sentimento (como "negativo", "neutro" e "positivo") e pontuações de confiança no nível da frase e do documento.
+Sabendo disso, podemos através da função de [Análise de sentimentos e opiniões](https://language.cognitive.azure.com/tryout/sentiment), a qual é um ramo da IA ​​que lida com a linguagem escrita e falada analisando os sentimentos. Assim, fornecendo rótulos de sentimento (como "negativo", "neutro" e "positivo") e pontuações de confiança no nível da frase e do documento. Neste exercício, usei o Language Studio para criar um novo recurso de idioma e tamém usei um recurso de idioma existente.
 
 - **Exemplo da Análise de sentimentos e opiniões realizada**
 
-![Primeira imagem de Exemplo da Análise de sentimentos e opiniões realizada](teste)
+**Input:**
 
-![Segunda imagem de Exemplo da Análise de sentimentos e opiniões realizada](teste)
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Inputs/texto%20de%20exemplo.png?raw=true)
 
-![Terceira imagem de Exemplo da Análise de sentimentos e opiniões realizada](teste)
+**Output:**
 
-Arquivo json gerado: [`ResultadosExaminados.json`](teste)
+![Primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.1.png?raw=true)
 
+![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.2.png?raw=true)
+
+![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.3.png?raw=true)
+
+Arquivo JSON gerado: [`ResultadosExaminados.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados.json)
 
 ## Referências
 
