@@ -12,9 +12,9 @@ Sabendo disso, podemos através da função de [Conversão de fala em texto em t
 
 - **Exemplo da conversão de fala em texto em tempo real realizada**
 
-![Imagem de Exemplo da conversão de fala em texto em tempo real realizada](Pratica\ExploreSpeechStudio\Outputs\transcricao.png)
+![Imagem de Exemplo da conversão de fala em texto em tempo real realizada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.png?raw=true)
 
-Arquivo json gerado: [`transcicao.json`](teste)
+Arquivo json gerado: [`transcicao.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.json)
 
 ## **2. Analise texto com Language Studio:**
 
